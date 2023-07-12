@@ -12,7 +12,7 @@
 //! ```
 //!
 //! ```bash
-//! cargo generate -g  https://github.com/R2NorthstarTools/rrplug.git
+//! cargo generate --git  https://github.com/R2NorthstarTools/rrplug.git
 //! ```
 //!
 //! ## Manual setup
